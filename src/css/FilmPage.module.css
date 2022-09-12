@@ -1,0 +1,15 @@
+
+.InfoFilmContainer{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color:white;
+}
+.Column{
+    max-width: 500px;
+    margin: 35px;
+}
+.InfoFilmContainer img{
+    border-radius: 25px;
+}

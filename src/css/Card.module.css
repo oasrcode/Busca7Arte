@@ -1,0 +1,15 @@
+.Card{
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;  
+}
+.Card::placeholder{
+    color: red;
+  font-size: 1.2em;
+  font-style: italic;
+}
+.Title{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
