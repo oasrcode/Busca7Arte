@@ -34,8 +34,8 @@ git clone [LINK DEL REPOSITORIO]
 ```
 ## Iniciar el proyecto
 
-En la carpeta del backend escribimos por terminal
+En la carpeta del proyecto abrimos una terminal y escribimos :
 
 ```bash
-npm install
+npm start
 
